@@ -1,12 +1,14 @@
 # L01HandsOn
 L01HandsOn
 Requirements
+
 Add the following starter code to the script.js file:
+
 function numberChecking(){
     if(){
-
     }
 }
+
 Within the script.js file, add the following to the numberChecking() function:
 The numberChecking() function needs to take in two parameters: number1 and number2.
 Write if statements that check for the following:
